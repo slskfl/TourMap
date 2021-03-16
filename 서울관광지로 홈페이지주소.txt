@@ -1,0 +1,12 @@
+"http://www.museum.go.kr",
+"http://hanokmaeul.seoul.go.kr",
+"http://www.sac.or.kr",
+"http://www.cheonggyecheon.or.kr",
+"http://www.63.co.kr",
+"http://www.nseoultower.com",
+"http://www.royalpalace.go.kr",
+"http://www.visitseoul.net/kr/article/article.do?_method=view&art_id=49160&lang=kr&m=0004003002009&p=03",
+"http://www.88olympic.or.kr",
+"http://www.nfm.go.kr",
+"http://www.sscmc.or.kr/culture2",
+"http://www.cdg.go.kr"

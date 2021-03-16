@@ -1,0 +1,17 @@
+ < 지도 앱 만들기 (구글 api연결) >
+
+1) SHA1 인증코드
+
+    [cmd]
+
+    입력1>> cd C:\Program Files\Android\Android Studio\jre\bin
+    입력2>> keytool.exe -list -v -keystore C:\Users\USER\.android\debug.keystore (틀렸을 경우 오른쪽 방향키만 연속으로 누르기)
+    입력3>> 키 저장소 비밀번호 입력 : android
+    결과>> SHA1: A4:05:D8:3E:F5:FA:BC:CA:4F:50:0E:61:82:D9:14:A8:F9:15:58:DA
+
+2) API 발급(지도기능 설정)
+	https://console.developers.google.com/apis/dashboard?project=poetic-planet-307805&supportedpurview=project
+
+	설정) Android 앱, 패키지 이름, SHA1 입력 추가, 키 제한 
+	키>> AIzaSyCG4wG88oGAw3_WWyW0bSDejcf2UzByjpI
+3) 개발하는 앱에서 활용
